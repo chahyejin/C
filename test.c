@@ -1,7 +1,7 @@
 /*
 1. char short int -%d long -%ld
 2. float - %f double -%lf
-3. string-%s
+3. char - %c
 */
 
 #define _CRT_SECURE_NO_WARNINGS 
